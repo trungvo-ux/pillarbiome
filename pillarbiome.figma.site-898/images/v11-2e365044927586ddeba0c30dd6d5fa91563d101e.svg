@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 64 32" width="100%">
+<g id="Tag">
+<path d="M0.660221 28.3947L11.0748 18.4896L20.795 23.8271L38.332 14.1974L47.5257 16.5404L60.7508 3.96222" id="Vector 80" stroke="var(--stroke-0, #6CDA75)" stroke-linecap="round" stroke-width="1.32067"/>
+<path d="M11.0748 18.4896L0.660221 28.3947H60.7508V3.96222L47.5257 16.5404L38.332 14.1974L20.795 23.8271L11.0748 18.4896Z" fill="url(#paint0_linear_0_267)" id="Vector 81"/>
+<circle cx="38.9597" cy="14.5277" fill="var(--fill-0, #6CDA75)" id="Ellipse 6" r="2.47626" stroke="var(--stroke-0, white)" stroke-width="0.990505"/>
+<circle cx="60.7507" cy="3.96245" fill="var(--fill-0, #6CDA75)" id="Ellipse 7" r="2.47626" stroke="var(--stroke-0, white)" stroke-width="0.990505"/>
+<circle cx="22.4514" cy="23.1117" fill="var(--fill-0, #6CDA75)" id="Ellipse 8" r="2.47626" stroke="var(--stroke-0, white)" stroke-width="0.990505"/>
+<circle cx="13.2067" cy="18.4897" fill="var(--fill-0, #6CDA75)" id="Ellipse 9" r="2.47626" stroke="var(--stroke-0, white)" stroke-width="0.990505"/>
+</g>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_0_267" x1="30.7055" x2="30.7055" y1="3.96222" y2="28.3947">
+<stop stop-color="#6CDA75"/>
+<stop offset="1" stop-color="#6CDA75" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
